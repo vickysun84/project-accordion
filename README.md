@@ -12,15 +12,15 @@
 
 -Put your  section contents inside lib-section tag.
 
-<lib-vicky-accordion>
+&lt;lib-vicky-accordion&gt;
 
-  <lib-section title="hello">hello</lib-section>
+  &lt;lib-section title="hello"&gt;hello&lt;/lib-section&gt;
   
-  <lib-section title="sdfadf">dafda</lib-section>
+  &lt;lib-section title="sdfadf"&gt;dafda&lt;/lib-section&gt;
   
-  <lib-section title="sadfadf">666</lib-section>
+  &lt;lib-section title="sadfadf"&gt;666&lt;/lib-section&gt;
   
-</lib-vicky-accordion>
+&lt;/lib-vicky-accordion&gt;
 
 
 
