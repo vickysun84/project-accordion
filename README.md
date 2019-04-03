@@ -1,10 +1,10 @@
-#Instruction:
+# Instruction:
 1. run npm i vicky-accordion
 2. import {VickyAccordionModule} from 'vicky-accordion' to your app module.
 3. add to imports: [
     VickyAccordionModule
   ]
-##usage:
+## usage:
 
 -put every lib-section tag inside lib-vicky-accordion tag
 
