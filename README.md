@@ -6,9 +6,9 @@ Instruction:
   ]
 4. usage:
 
--defile section name in "title".
+-Put section name in "title" for lib-section, for example title="hello".
 
--define section contents inside <lib-section>.
+-Put your  section contents inside lib-section tag.
 
 
 
